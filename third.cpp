@@ -4,7 +4,6 @@ using namespace std;
 int main(){
 ios_base::sync_with_stdio(false);
 cin.tie(NULL);
-cout<<"hello world";
-cout<<"change made";
+cout<<"temp";
 return 0;
 }
